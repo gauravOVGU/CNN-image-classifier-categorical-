@@ -1,4 +1,4 @@
-## Building CNN image classification models using keras
+## Building CNN image classification models using keras(Backend tensorflow)
 It uses data that can be downloaded at:
 http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/
 It can work with multiple classes, for this implimentation we are working on identifying numbers
@@ -39,3 +39,8 @@ data/
             img2_802.jpg
             ...
 
+
+Available Customizations:
+line 16: Update image size
+line 46: dropout rate
+line 47: number of output classes
