@@ -21,7 +21,7 @@ data/
             img1_001.jpg
             img1_002.jpg
             ...
-		2/
+	2/
             img2_001.jpg
             img2_002.jpg
             ...
@@ -34,7 +34,7 @@ data/
             img1_801.jpg
             img1_802.jpg
             ...
-		2/
+	2/
             img2_801.jpg
             img2_802.jpg
             ...
